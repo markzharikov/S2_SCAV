@@ -1,0 +1,27 @@
+1
+00:00:01,546 --> 00:00:02,856
+Okay, aqui vamos, enfocate!
+
+2
+00:00:02,946 --> 00:00:03,956
+Velocidad, soy velocidad
+
+3
+00:00:04,849 --> 00:00:05,472
+Un ganador
+42 perdedores
+
+4
+00:00:06,699 --> 00:00:07,947
+Me como a los perdedores
+para el desayuno
+
+5
+00:00:08,364 --> 00:00:09,445
+Desayuno?
+Tal vez deba comer desayuno
+
+6
+00:00:10,979 --> 00:00:11,005
+Desayunito seria bueno
+
